@@ -1,0 +1,209 @@
+body{
+    color: #363958 !important;
+    /* font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif; */
+}
+/* Header Start */
+header{
+    background-color: #FFFBF0;
+    padding-bottom: 50px;
+}
+.logo-img{
+    width: 60%;
+}
+/* menubar start */
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 14px !important;
+    color: #363958 !important;
+    transition: 0.5s;
+    margin-right:30px !important;    
+}
+.menu ul li a:hover{
+    background-color: #98B134;
+    color: white !important;
+    border-radius: 5px;
+}
+.menu ul li:last-child a{
+    margin-right: 0 !important;
+}
+/* menubar end */
+/* banner start */
+.banner{
+    margin-top: 20px;
+    background-color: #FFFBF0;
+}
+.banner-txt{}
+.b-txt-highlight{
+    color: #FABE4C;
+}
+.banner-txt h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    color: #363958;
+    margin-bottom: 20px;
+}
+.banner-txt p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.banner-txt button{
+    font-family: 'Poppins',sans-serif;
+    background-color: #98B134;
+    color: white;
+    padding:18px 30px;
+    transition: 0.5s;
+    border: none;
+}
+.banner-txt button:hover{
+    background-color: #6c8313;
+    color: white;
+}
+.banner-txt button i{
+    margin-right: 10px;
+}
+.banner-img{}
+/* banner end */
+/* Header End */
+/* product start */
+.product{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.jacket h1{
+    font-family: 'Oswald', sans-serif;
+}
+.custom-card{
+    border: none;
+    border-radius: 10px !important;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.custom-card img{
+    margin-left: 5px;
+}
+.custom-card h5{
+    font-family: 'Poppins',sans-serif;
+    font-weight: 700;
+}
+.c-card-footer{
+    margin-bottom:10px;
+    margin-left: 10px;
+    border: none;
+}
+.p-price{
+    font-weight: 900;
+    font-size: 30px;
+    margin-right: 90px;
+    margin-left: 5px;
+}
+.c-button{
+    font-family: 'Poppins',sans-serif;
+    background-color: #98B134;
+    font-size: 14px;
+    color: white;
+    transition: 0.5s;
+    border: none;
+}
+.c-button:hover{
+    background-color: #6c8313;
+    color: white; 
+}
+.c-card-footer i{
+    margin-right: 10px;
+}
+
+/* product end */
+/* guideline start */
+    .guideline{
+        margin-bottom: 20px;
+    }
+    .guide-area{
+        margin-bottom: 30px;
+        border-radius: 10px;
+    }
+    .guide-area img{
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .guide-txt{
+        margin: 20px 20px;
+    }
+    .guide-txt h3{
+        font-family: 'Poppins',sans-serif;
+        font-weight: 700;
+        font-size:20px;
+        padding-left: 20px;
+        margin-bottom: 10px;
+        
+    }
+    .guide-txt p{
+        font-family: 'Poppins',sans-serif;
+        font-size:13px;
+        padding-left: 20px;
+    }
+    .shop img{
+        width: 70%;
+        margin-left: 20%;
+        margin-top: 8%;
+    }
+/* guideline end */
+/*Contact Start*/
+    .contact{
+        background-color: #363958;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    .f_color h1{
+        color: #c8eb3e;
+    }
+    .f_color p{
+        color: #ffffff;
+    }
+    .form{}
+    .form input{
+        font-size: 16px;
+        color:#898989;
+        padding: 12px 25px;
+    }
+    .btn_custom{
+        font-family: 'Poppins',sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        color: white;
+        letter-spacing: 1px;
+        transition: 0.5s;
+        background-color: #A4BC46;
+        padding: 12px 35px;
+    }
+    .btn:hover{
+        background-color: #6C8313;
+        color: white;
+    }
+    /*Social Icon Start*/
+    .social_media_icon{
+        font-size: 42px;
+        padding: 20px 0;
+
+    }
+    .social_media_icon ul{
+        margin: 0;
+    }
+    .social_media_icon ul li{
+    }
+    .social_media_icon ul li i{
+        color: #A4BC46;
+        transition: .7s;
+    }
+    .social_media_icon ul li i:hover{
+        color: #0D8BF0;
+    }
+/* social  icon end */
+/* contact end */

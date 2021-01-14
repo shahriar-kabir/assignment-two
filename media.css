@@ -1,0 +1,90 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .logo-img {
+        width: 70%;
+    }
+    .banner-txt h1{
+        font-size: 40px;
+    }
+    .banner-txt button{
+        margin-left: 50px;
+    }
+    .banner-img{
+        margin-top: 50px !important;
+    }
+    .product{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .jacket h1{
+        margin-top: 20px;
+        text-align: center;
+    }
+	.p-price{
+        font-size: 30px !important;
+        margin-right:50px !important;
+        margin-left: 5px;
+    }
+    .guide-area{
+        display: block !important; 
+    }
+    .guide-area img{
+        width: 20%;
+        margin-left: 110px !important;
+    }
+    .shop img {
+        width: 80%;
+        margin-left: 35px;
+    }
+    .c-button{
+        font-size: 12px;
+    }
+    .btn_custom{
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-top: 15px;
+        margin-left: 30%;
+        padding: 12px 25px;
+    } 
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 767.98px) {
+    .banner-img{
+        margin-top: 20px;
+    }
+    .product{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+	.p-price{
+        font-size: 20px;
+        margin-right: 150px;
+        margin-left: 5px;
+    }
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (max-width: 991.98px) {
+    .p-price{
+        font-size: 20px;
+        margin-right: 30px;
+        margin-left: 5px;
+    }
+    .c-button{
+        font-size: 12px;
+    }
+}
+/*Large devices (desktops, 992px and up)*/
+@media  (max-width: 1199.98px) { 
+    .p-price{
+        font-size: 20px;
+        margin-right: 25px;
+        margin-left: 5px;
+    }
+    .c-button{
+        font-size: 12px;
+    }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
